@@ -1,1 +1,3 @@
 Montevideo
+Roma
+Buenos Aires
